@@ -1,0 +1,53 @@
+Task Management App
+Overview
+This is a GUI-based Task Management App built using Python and the tkinter library. The app allows users to:
+
+Add new tasks.
+Delete completed or unwanted tasks.
+Track and manage a list of tasks effectively.
+The application features a user-friendly and aesthetically pleasing interface.
+
+Features
+Add tasks to a to-do list.
+Delete tasks from the list.
+Clear all tasks with a single click.
+Save tasks to a file for future reference.
+Load tasks from a saved file.
+
+Installation
+Ensure Python 3.x is installed on your system.
+Install the required libraries (if not already installed):
+bash
+Copy code
+pip install tk
+Clone this repository or download the project files.
+
+How to Run
+Navigate to the project directory:
+bash
+Copy code
+cd GUI_ToDo_App
+Run the Python file:
+bash
+Copy code
+python app.py
+
+Usage
+Launch the app.
+Use the entry box to type your task and click "Add Task" to add it to the list.
+Select a task from the list and click "Delete Task" to remove it.
+Click "Save Tasks" to save the current task list to a file.
+Click "Load Tasks" to load tasks from a previously saved file.
+Click "Clear All Tasks" to remove all tasks from the list.
+
+Technologies Used
+Language: Python
+GUI Library: tkinter
+
+Future Improvements
+Add functionality to edit tasks.
+Implement priority levels for tasks.
+Add a calendar view for scheduling.
+
+Contributors
+Jayshree Pawar
